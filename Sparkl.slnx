@@ -1,0 +1,4 @@
+<Solution>
+    <Project Path="Sparkl.Core\Sparkl.Core.csproj"/>
+    <Project Path="Sparkl.Greeter\Sparkl.Greeter.csproj"/>
+</Solution>
